@@ -1,9 +1,0 @@
-{
-  "functions": {
-    "app/**/route.js": {
-      "files": [
-        "node_modules/bcrypt/lib/binding/**"
-      ]
-    }
-  }
-}
