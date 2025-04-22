@@ -1,0 +1,10 @@
+{
+    "functions": {
+      "api/**.js": {
+        "includedFiles": [
+          "node_modules/bcrypt/lib/binding/**"
+        ]
+      }
+    }
+  }
+  
